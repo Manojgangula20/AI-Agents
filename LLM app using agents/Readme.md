@@ -3,4 +3,6 @@
 2. asyncio for asynchronous operations
 3. Together AI for LLM interactions
 
+create a .env file and add your together api key.
+
 
