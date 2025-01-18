@@ -1,0 +1,7 @@
+phidata
+python-dotenv
+packaging
+fastapi
+uvicorn
+openai
+groq
